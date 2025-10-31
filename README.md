@@ -3,6 +3,9 @@ Simulation of a Class of Random Fields with Self-similarity
 
 ## Author(s)
 *   Zhixuan Jia(00034737@whu.edu.cn), Qidi Peng(qidi.peng@cgu.edu), Yuxiao Yang(yuxiao.yang@cgu.edu), William Wu(wwu49387@gmail.com).
+
+## Corresponding Author
+*  Qidi Peng
 --------------------------------------------------------------------------------
 
 ## Abstract
